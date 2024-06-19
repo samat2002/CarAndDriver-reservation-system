@@ -1,6 +1,6 @@
 using System;
 
-namespace CAD_Reserve_System.Models
+namespace AspMvc.Models
 {
     public class ErrorViewModel
     {

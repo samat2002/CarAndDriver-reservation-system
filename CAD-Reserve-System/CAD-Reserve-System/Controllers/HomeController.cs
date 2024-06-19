@@ -1,4 +1,4 @@
-﻿using CAD_Reserve_System.Models;
+﻿using AspMvc.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CAD_Reserve_System.Controllers
+namespace AspMvc.Controllers
 {
     public class HomeController : Controller
     {

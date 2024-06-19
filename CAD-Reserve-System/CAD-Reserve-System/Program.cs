@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CAD_Reserve_System
+namespace AspMvc
 {
     public class Program
     {

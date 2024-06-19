@@ -14,20 +14,20 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 #line 1 "C:\Users\samat_t\OneDrive - Innovex Holdings Company Limited\Documents\CarAndDriver-reservation-system\CAD-Reserve-System\CAD-Reserve-System\Views\_ViewImports.cshtml"
-using CAD_Reserve_System;
+using AspMvc;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 2 "C:\Users\samat_t\OneDrive - Innovex Holdings Company Limited\Documents\CarAndDriver-reservation-system\CAD-Reserve-System\CAD-Reserve-System\Views\_ViewImports.cshtml"
-using CAD_Reserve_System.Models;
+using AspMvc.Models;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d6a5625cc8fb4476f348b0fe9041c550465d8bf9", @"/Views/Shared/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ba1c08f4840a9d79f4b29d624d42b7014394d09f", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"890ab49ac151ff00f5f2136a3c0822f5f59e057e", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998
